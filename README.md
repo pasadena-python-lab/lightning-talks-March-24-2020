@@ -68,13 +68,12 @@ Biography
 John studies software and systems. He's been programming and teaching Python for 20 years.
 
 
-#### Why docker is great by Ravin Kumar
+#### Why Docker is great for DS by Ravin Kumar
 
-Will be briefly talking through how docker is super useful
+Data Science is hard just with the math and data. Reproducibility offline and deployment of trained models is another whole challenge. Containerization and particularly Docker provide a useful set of functionality that makes reproducing your own analyses easy, and sharing them with others even easer. We'll briefly cover what docker is and the first couple of commands you need to get started.
 
 Biography
-Data Person doing data stuff
-
+Ravin is a Senior Engineer working at Sweetgreen, using bayesian methods to help with decision making and building real time prediction systems in the cloud. Ravin is also a core contributor to PyMC3 and ArviZ libraries.
 
 #### Does Python know Linguistics? An NLP overview by Jose Montoro
 
