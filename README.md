@@ -70,10 +70,10 @@ John studies software and systems. He's been programming and teaching Python for
 
 #### Why Docker is great for DS by Ravin Kumar
 
-Data Science is hard just with the math and data. Reproducibility offline and deployment of trained models is another whole challenge. Containerization and particularly Docker provide a useful set of functionality that makes reproducing your own analyses easy, and sharing them with others even easer. We'll briefly cover what docker is and the first couple of commands you need to get started.
+Data Science is hard enough just with the math and data. Reproducibility offline and deployment is another whole challenge. Containerization and particularly Docker provide a useful set of functionality that makes reproducing your own analyses easy, and sharing them with others even easer. We'll briefly cover what docker is, how it's helped in both my Open Source and work lives and the first couple of commands you need to get started.
 
 Biography
-Ravin is a Senior Engineer working at Sweetgreen, using bayesian methods to help with decision making and building real time prediction systems in the cloud. Ravin is also a core contributor to PyMC3 and ArviZ libraries.
+Ravin is a Senior Engineer working at Sweetgreen, and previously at SpaceX. He using bayesian methods to help with decision making and building real time prediction systems in the cloud. Ravin is also a core contributor to PyMC3 and ArviZ libraries.
 
 #### Does Python know Linguistics? An NLP overview by Jose Montoro
 
